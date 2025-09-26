@@ -7,7 +7,7 @@ Each round adds one more color to the sequence, challenging the player’s memor
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/username/simon-game.git
+   git clone https://github.com/avelic5/simon-game.git
 Open index.html in your browser to start playing.
 (Make sure you are connected to the internet for jQuery and Google Fonts.)
 
